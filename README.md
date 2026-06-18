@@ -32,11 +32,13 @@ The demo video shows the complete 5-step process using a sample academic framewo
 
 👉🏻 Input AI-generated PNG
 
-![Input](demo/input.png)
+<img src="demo/input.png" alt="Input" width="80%">
+
+(Figure from: [Chen, Y. (2026). Probabilistic Human Digital Twin (PHDT). Zenodo.](https://zenodo.org/records/20435485))
 
 👉🏻 Output English editable slide screenshot
 
-![Output EN](demo/output_en.png)
+<img src="demo/output_en.png" alt="Output EN" width="80%">
 
 [Download English editable slide](demo/output_en.pptx)
 
@@ -44,7 +46,7 @@ The demo video shows the complete 5-step process using a sample academic framewo
 
 👉🏻 Output Chinese editable slide screenshot
 
-![Output ZH](demo/output_zh.png)
+<img src="demo/output_zh.png" alt="Output ZH" width="80%">
 
 [Download Chinese editable slide](demo/output_zh.pptx)
 
