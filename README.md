@@ -21,23 +21,23 @@ Step 1 sends the figure to ChatGPT and receives a detailed JSON describing every
 
 The final output may still require minor manual adjustments in PowerPoint, such as repositioning a text box or resizing an element. The video ends by opening the output PPTX in PowerPoint and clicking through individual elements to demonstrate that every box, text label, arrow, and icon is independently editable.
 
-Input (AI-generated PNG)
+Input AI-generated PNG
 
 ![Input](demo/input.png)
 
-Output EN (English editable PPTX screenshot)
+Output English editable slide screenshot
 
 ![Output EN](demo/output_en.png)
 
-Download: [demo/output_en.pptx](demo/output_en.pptx)
+[Download English editable slide](demo/output_en.pptx)
 
 [Watch English demo video](demo/walkthrough_en.mp4)
 
-Output ZH (Chinese editable PPTX screenshot)
+Output Chinese editable slide screenshot
 
 ![Output ZH](demo/output_zh.png)
 
-Download: [demo/output_zh.pptx](demo/output_zh.pptx)
+[Download Chinese editable slide](demo/output_zh.pptx)
 
 [Watch Chinese demo video](demo/walkthrough_zh.mp4)
 
@@ -48,23 +48,19 @@ Download: [demo/output_zh.pptx](demo/output_zh.pptx)
 Open a new ChatGPT conversation. Upload your figure as a PNG or JPG. Then send the 5 prompts below one at a time, waiting for GPT to fully respond before sending the next.
 
 
-English version: See [prompts/en.md](prompts/en.md)
+English version: See [English prompts](prompts/en.md)
 
-Chinese version: See [prompts/zh.md](prompts/zh.md)
+Chinese version: See [Chinese prompts](prompts/zh.md)
 
 
 
 ## Requirements and Tips
 
-A ChatGPT Plus account with GPT-5.5 access is required. No other tools or setup needed.
+A ChatGPT Plus account with GPT-5.5 access is required. No other tools or setup needed. Use GPT-5.5. Earlier models produce inconsistent results. 
 
-Use GPT-5.5. Earlier models produce inconsistent results.
+Wait for each step to fully complete before sending the next prompt. The JSON outputs in Steps 1 and 4 will be long. This is normal. Just scroll past and continue.
 
-Wait for each step to fully complete before sending the next prompt.
-
-The JSON outputs in Steps 1 and 4 will be long. This is normal. Just scroll past and continue.
-
-The final PPTX may need minor text box adjustments in a few places. The overall layout and icon placement will be accurate.
+The final slide may need minor text box adjustments in a few places. The overall layout and icon placement will be accurate.
 
 Icons that are 3D renders or photographs rather than flat vector icons will be preserved as images and may look slightly softer than the original.
 
