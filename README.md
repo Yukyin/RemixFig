@@ -80,7 +80,7 @@ If RemixFig helps your research workflow, please consider citing or starring thi
 
 ```bibtex
 @misc{chen2026remixfig,
-  author = {Chen, Yuyan},
+  author = {Yuyan Chen},
   title = {RemixFig: A Prompt Workflow for Making AI-Generated Figures Editable},
   year = {2026},
   publisher = {GitHub},
