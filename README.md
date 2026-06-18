@@ -74,7 +74,7 @@ Open a new ChatGPT conversation. Upload your figure as a PNG or JPG. Then send t
 - Icons that are 3D renders or photographs rather than flat vector icons will be preserved as images and may look slightly softer than the original.
 
 
-## Citation 📚
+## Citation
 
 If RemixFig helps your research workflow, please consider citing or starring this repo.
 
@@ -90,7 +90,7 @@ If RemixFig helps your research workflow, please consider citing or starring thi
 
 
 
-## License 📜
+## License
 
 Noncommercial use is governed by `LICENSE` (PolyForm Noncommercial 1.0.0). Commercial use requires a separate agreement. See `COMMERCIAL_LICENSE.md`.
 
