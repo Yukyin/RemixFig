@@ -57,9 +57,9 @@ The demo video shows the complete 5-step process using a sample academic framewo
 Open a new ChatGPT conversation. Upload your figure as a PNG or JPG. Then send the 5 prompts below one at a time, waiting for GPT to fully respond before sending the next.
 
 
-English version: See [English prompts](prompts/en.md)
+✨ English version: See [English prompts](prompts/en.md)
 
-Chinese version: See [Chinese prompts](prompts/zh.md)
+✨ Chinese version: See [Chinese prompts](prompts/zh.md)
 
 
 
