@@ -1,13 +1,4 @@
-<table>
-  <tr>
-    <td width="96" align="center">
-      <img src="demo/logo.png" alt="RemixFig logo" width="72" />
-    </td>
-    <td>
-      <h1>RemixFig</h1>
-    </td>
-  </tr>
-</table>
+# RemixFig <img src="logo.png" alt="RemixFig logo" height="30">
 
 Turn any AI-generated academic figure into a fully editable PowerPoint in 5 prompts.
 
